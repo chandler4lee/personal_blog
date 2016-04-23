@@ -28,7 +28,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 		<input type="hidden" name="password" value="69"/>
 		<input type="button" onclick="testsubmit()" value="submit"/>
 	</form>
-	
+	<input type="button" onclick="test()" value="test_submit"/>
 	<script src="../../js/jquery-2.1.4.min.js"></script>
 	<script type="text/javascript">
 		function testsubmit(){

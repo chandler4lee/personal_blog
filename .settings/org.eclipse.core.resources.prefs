@@ -1,7 +1,8 @@
 eclipse.preferences.version=1
-encoding//src/main/java=UTF-8
+encoding//src/main/java=gbk
+encoding//src/main/java/com/money/economic/entity/StockEntity.java=gbk
 encoding//src/main/resources=UTF-8
 encoding//src/main/resources/config.properties=UTF-8
-encoding//src/main/webapp/WEB-INF/views/bootstrap_model.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/login/main_face.jsp=UTF-8
 encoding//src/test/java=UTF-8
 encoding/<project>=UTF-8

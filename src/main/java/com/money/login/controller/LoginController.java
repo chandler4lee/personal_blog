@@ -25,10 +25,10 @@ public class LoginController {
 	
 	@RequestMapping("/userLogin")
 	public ModelAndView userLogin(String username,String password){
-		ModelAndView mav = new ModelAndView("bootstrap_model");
+		ModelAndView mav = new ModelAndView("login/main_face");
 		
-		System.out.println("username:"+username);
-		System.out.println("password:"+password);
+		/*System.out.println("username:"+username);
+		System.out.println("password:"+password);*/
 		
 		return mav;
 	}
